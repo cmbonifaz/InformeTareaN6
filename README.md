@@ -1,4 +1,4 @@
-# Informe Tarea N°5
+# Informe Tarea N°6
 
 **Integrantes:**
 
