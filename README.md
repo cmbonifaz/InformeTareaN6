@@ -62,6 +62,8 @@ Usamos el área A1 para calcular la densidad de flujo porque, la densidad se enc
 
 **8.	Para la sección de núcleo de hierro de la figura 12-45, si B1=0.8 T y B2=0.6 T, ¿qué valor tiene B3?.**
 
+<img src="imagenes/fig12-45.jpg">
+
 **9.	Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene ϕ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?.**
 
 **10.	La figura 12-46 muestra los dos circuitos eléctricos equivalentes a los circuitos magnéticos. Demuestre que u en  R=l/uA es lo mismo que u en B=uH.**
