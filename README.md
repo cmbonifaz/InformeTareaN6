@@ -12,7 +12,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
-- Clarificar el estudio de carga, descarga del capacitor,circuitos formadores de onda simples , de la misma forma para Magnetismo y circuitos magnéticos todo esto aplicando los conocimientos aprendidos durante clases.
+- Clarificar el estudio de carga, descarga del capacitor,circuitos formadores de onda simples, de la misma forma para Magnetismo y circuitos magnéticos todo esto aplicando los conocimientos aprendidos durante clases.
 
 ### 2. MARCO TEÓRICO
 
