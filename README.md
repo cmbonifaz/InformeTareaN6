@@ -18,6 +18,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
+<img src="Imagenes/cap12.png">
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 #### Capitulo 11 (Carga, descarga del capacitor y circuitos formadores de onda simples)
