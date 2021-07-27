@@ -109,7 +109,7 @@ Aplicamos la ley para el buble 1
 Ley circuital de amperios
 
 <img src="imagenes/ejer12a.jpg">
-Aplicando la ley de Ampere en el bucle 1
+
 <img src="imagenes/ejer12b.jpg">
 
 **13.	Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.**
