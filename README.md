@@ -42,6 +42,8 @@ Usamos el área A1 para calcular la densidad de flujo porque, la densidad se enc
 
 **2.	Para la figura 12-41, si ϕ=250 uWb, A1 =1.25 pulg2 y A2=2.0 pulg2, ¿cuál es la densidad de flujo en unidades del sistema inglés?**
 
+<img src="imagenes/fig12-41.jpg">
+
 <img src="imagenes/ejer2.jpg">
 
 **3.	El toroide de la figura 12-42 tiene una sección transversal circular y ϕ=628Wb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?**
