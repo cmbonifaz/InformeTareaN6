@@ -18,6 +18,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 11 (Carga, descarga del capacitor y circuitos formadores de onda simples)
 
+<img src="imagenes/cap11.png">
+
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
 <img src="imagenes/cap12.png">
