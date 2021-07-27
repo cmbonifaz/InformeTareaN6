@@ -146,6 +146,24 @@ Aplicando la ley de Ampere para el bucle 2
 
 <img src="imagenes/ejer15.jpg">
 
+
+24. Para la figura 12-53, si Φg = 80 x μWb, encuentre I.
+
+25. Si el circuito de la figura 12-53 no tiene espacio y 	Φ3=0.2 mWb, encuentre I.
+
+26. Un circuito magnetico de acero fundido con N = 2500 vueltas, I = 200 mA y un area de seccion transversal de 0.02 m^2  tiene un espacio de aire de 0.00254 m. Si se supone que 90% de la fmm aparece en el espacio, estime el flujo en el nucleo.
+
+27. Si NI=644Av para el nucleo de acero fundido de la figura 12-54, encuentre el flujo, Φ.
+
+28. Se corta un espacio de L= 0.004 m en el nucleo de la figura 12-54. Todo lo demas permanece igual. Encuentre el flujo, Φ.
+
+29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuanto flujo se necesita (en webers)?
+ 
+30. Para el solenoide de la figura 12-28, Φ=4x10^(-4) Wb. Encuentre la fuerza de atraccion en el embolo en newtons y en libras.
+
+
+
+
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES 
