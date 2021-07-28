@@ -77,22 +77,22 @@ d. ¿Qué se quiere decir con i(0-) y con i(0+)?**
 
 **17. Para la ﬁgura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.**
 
-<img src="imagenes/Ejer-17_1.jpg">
+<img src="imagenes/Ejer-17_11.jpg">
 
 **19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si V0 = 10 V, ¿cuál es el corriente justo después de que el interruptor se ha cerrado?**
 
-<img src="imagenes/Ejer-19_1.jpg">
+<img src="imagenes/Ejer-19_11.jpg">
 
 **21. Para el capacitor de la ﬁgura 11-51, V0 = 30 V.
 a. Determine la expresión para el voltaje de carga vC.
 b. Determine la expresión para la corriente iC.
 c. Graﬁque vC e iC.**
 
-<img src="imagenes/Ejer-21_1.jpg">
+<img src="imagenes/Ejer-21_11.jpg">
 
 **25. Un capacitor de 4.7 F se carga a 43 volts. Si un resistor de 39 kohm se conecta al capacitor, ¿cual es el voltaje, 200 ms despues de que se conecta el resistor?**
 
-<img src="imagenes/Ejer-25_1.jpg">
+<img src="imagenes/Ejer-25_11.jpg">
 
 **27. Para la figura 11-54, sea E=200 V, R2=1 kohmy C=0.5 F. Despues de que el capacitor esta totalmente cargado en la posicion 1, el interruptor es movido a la posicion 2.
 a. ¿Que voltaje tiene el capacitor inmediatamente despues de que el interruptor es movido a la posicion 2? ¿Cual es la corriente?
