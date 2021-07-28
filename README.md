@@ -162,6 +162,12 @@ c)
 
 <img src="imagenes/fig11-66.jpg">
 
+<img src="imagenes/ejer43cap11a.jpg">
+
+<img src="imagenes/ejer43cap11b.jpg">
+
+<img src="imagenes/ejer43cap11c.jpg">
+
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
 **1. Vea la figura 12-41:**
