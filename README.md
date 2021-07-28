@@ -30,17 +30,76 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 11 (Carga, descarga del capacitor y circuitos formadores de onda simples)
 
-**29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t0. Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.**
+**1. El capacitor de la ﬁgura 11-50 está descargado.
+a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el
+interruptor?
+b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?**
 
-**31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.**
+<img src="imagenes/Ejer-1.jpg">
 
-**35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.**
+**3. 	a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
+interruptor?
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+c. ¿A qué se parece un capacitor en estado estable de cd?
+d. ¿Qué se quiere decir con i(0-) y con i(0+)?**
 
-**37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R750 k y la alarma es activada en 15 s cuando vC 3.8 V, ¿Qué valor tiene C?**
+<img src="imagenes/Ejer-3.jpg">
 
-**39. Considere la forma de onda de la figura 11-62.**
+**5. Para un circuito de carga, R = 5.6 kΩ y vC (0-) = 0 V. Si i(0+) = 2.7 mA, ¿cuál es el valor de E?**
 
-**41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.**
+<img src="imagenes/Ejer-5.jpg">
+
+**7. Repita el problema 6 si R = 500 Ω, C = 25 µF y E = 45 V, pero ahora calcule y graﬁque valores en t = 0+ s, 20, 40, 60, 80 y 100 ms.**
+
+<img src="imagenes/Ejer-7.jpg">
+
+<img src="imagenes/Ejer-7,1.jpg">
+
+**9. Repita el problema 8 para el circuito de la ﬁgura 11-52.**
+
+<img src="imagenes/Ejer-9.jpg">
+
+<img src="imagenes/Ejer-9,1.jpg">
+
+**11. Determine la constante de tiempo para el circuito de la ﬁgura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?**
+
+<img src="imagenes/Ejer-11.jpg">
+
+**13. Para la ﬁgura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en t = 0, 40, 80, 120, 160 y 200 µs, use las curvas de la constante de tiempo universal.**
+
+<img src="imagenes/Ejer-13.jpg">
+
+<img src="imagenes/Ejer-13,1.jpg">
+
+**15. Para la ﬁgura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E = 75 V, determine R y C.**
+
+<img src="imagenes/Ejer-15.jpg">
+
+**17. Para la ﬁgura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.**
+
+<img src="imagenes/Ejer-17_1.jpg">
+
+**19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si V0 = 10 V, ¿cuál es el corriente justo después de que el interruptor se ha cerrado?**
+
+<img src="imagenes/Ejer-19_1.jpg">
+
+**21. Para el capacitor de la ﬁgura 11-51, V0 = 30 V.
+a. Determine la expresión para el voltaje de carga vC.
+b. Determine la expresión para la corriente iC.
+c. Graﬁque vC e iC.**
+
+<img src="imagenes/Ejer-21_1.jpg">
+
+**25. Un capacitor de 4.7 F se carga a 43 volts. Si un resistor de 39 kohm se conecta al capacitor, ¿cual es el voltaje, 200 ms despues de que se conecta el resistor?**
+
+<img src="imagenes/Ejer-25_1.jpg">
+
+**27. Para la figura 11-54, sea E=200 V, R2=1 kohmy C=0.5 F. Despues de que el capacitor esta totalmente cargado en la posicion 1, el interruptor es movido a la posicion 2.
+a. ¿Que voltaje tiene el capacitor inmediatamente despues de que el interruptor es movido a la posicion 2? ¿Cual es la corriente?
+b. ¿Cual es la constante de tiempo de descarga?
+c. Determine las ecuaciones de descarga para vC e iC.**
+
+<img src="imagenes/Ejer-27_1.jpg">
 
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
