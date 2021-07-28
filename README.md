@@ -150,9 +150,13 @@ c)
 
 **c. ¿Cual es el PPR?**
 
+<img src="imagenes/ejer39cap11a.jpg">
+
 **41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.**
 
 <img src="imagenes/fig11-64.jpg">
+
+<img src="imagenes/ejer41cap11a.jpg">
 
 **43. Se aplica un escalon al circuito de la figura 11-66. Si R150 y C20 pF, estime el tiempo que tarda en subir el voltaje de salida.**
 
