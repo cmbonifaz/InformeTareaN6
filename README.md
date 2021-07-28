@@ -12,6 +12,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
+- Conocer el manejo de circuitos mas complejos mediante el estudio de los teoremas presentados en estos dos capitulos para amplificar nuestro conocimiento dentro del campo de los circuitos electricos.
+
 - Clarificar el estudio de carga, descarga del capacitor,circuitos formadores de onda simples, de la misma forma para Magnetismo y circuitos magnéticos todo esto aplicando los conocimientos aprendidos durante clases.
 
 - Analizar y resolver circuitos magnéticos en serie, serie-paralelo, asi como tambien calcular la fuerza de atracción de un electroimán mediante las formulas y pasos estudiados en este capitulo
