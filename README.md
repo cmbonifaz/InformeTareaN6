@@ -395,6 +395,8 @@ Aplicando la ley de Ampere para el bucle 2
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por carga, descarga del capacitor,circuitos formadores de onda simples o por Magnetismo y circuitos magnéticos que lo aprendidio en clases se ha clarificado.
 
+- Por medio de los ejercicios resueltos se obtuvo de mejor manera el aprendizaje dado en clase, ampliando el conocimiento en Carga, descarga del capacitor y circuitos formadores de onda simples, Magnetismo y circuitos magnéticos.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
