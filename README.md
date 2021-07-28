@@ -103,13 +103,23 @@ c. Determine las ecuaciones de descarga para vC e iC.**
 
 **29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t0. Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.**
 
+<img src="imagenes/fig11-55.jpg">
+
 **31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.**
+
+<img src="imagenes/fig11-57.jpg">
 
 **35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.**
 
+<img src="imagenes/fig11-60.jpg">
+
 **37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R750 k y la alarma es activada en 15 s cuando vC 3.8 V, ¿Qué valor tiene C?**
 
+<img src="imagenes/fig11-32.jpg">
+
 **39. Considere la forma de onda de la figura 11-62.**
+
+<img src="imagenes/fig11-62.jpg">
 
 **a. ¿Cual es el periodo?**
 
@@ -118,6 +128,8 @@ c. Determine las ecuaciones de descarga para vC e iC.**
 **c. ¿Cual es el PPR?**
 
 **41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.**
+
+<img src="imagenes/fig11-64.jpg">
 
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
