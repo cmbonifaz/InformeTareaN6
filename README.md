@@ -34,6 +34,14 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.**
 
+**35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.**
+
+**37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R750 k y la alarma es activada en 15 s cuando vC 3.8 V, ¿Qué valor tiene C?**
+
+**39. Considere la forma de onda de la figura 11-62.**
+
+**41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.**
+
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
 **1. Vea la figura 12-41:**
