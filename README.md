@@ -247,6 +247,8 @@ Aplicando la ley de Ampere para el bucle 2
 
 ### 4. VIDEO
 
+[Problemas Capítulos 11 y 12 - Informe Tarea N°6](https://youtu.be/h6EAohD4aG0 "Problemas Capítulos 11 y 12 - Informe Tarea N°6")
+
 ### 5. CONCLUSIONES 
 
 ### 6. BIBLIOGRAFÍA
