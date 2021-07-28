@@ -131,9 +131,14 @@ c)
 
 <img src="imagenes/fig11-60.jpg">
 
+<img src="imagenes/ejer35cap11a.jpg">
+
 **37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R750 k y la alarma es activada en 15 s cuando vC 3.8 V, ¿Qué valor tiene C?**
 
 <img src="imagenes/fig11-32.jpg">
+
+
+<img src="imagenes/ejer37cap11a.jpg">
 
 **39. Considere la forma de onda de la figura 11-62.**
 
