@@ -131,6 +131,10 @@ c. Determine las ecuaciones de descarga para vC e iC.**
 
 <img src="imagenes/fig11-64.jpg">
 
+**43. Se aplica un escalon al circuito de la figura 11-66. Si R150 y C20 pF, estime el tiempo que tarda en subir el voltaje de salida.**
+
+<img src="imagenes/fig11-66.jpg">
+
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
 **1. Vea la figura 12-41:**
