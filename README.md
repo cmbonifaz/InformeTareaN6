@@ -105,9 +105,27 @@ c. Determine las ecuaciones de descarga para vC e iC.**
 
 <img src="imagenes/fig11-55.jpg">
 
+<img src="imagenes/ejer11cap29a.jpg">
+
+<img src="imagenes/ejer11cap29b.jpg">
+
 **31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.**
 
 <img src="imagenes/fig11-57.jpg">
+
+<img src="imagenes/ejer31cap11a.jpg">
+
+b) 
+
+<img src="imagenes/ejer31cap11b.jpg">
+
+<img src="imagenes/ejer31cap11c.jpg">
+
+c)
+
+<img src="imagenes/ejer31cap11d.jpg">
+
+<img src="imagenes/ejer31cap11e.jpg">
 
 **35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.**
 
