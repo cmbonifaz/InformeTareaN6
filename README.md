@@ -253,6 +253,8 @@ Aplicando la ley de Ampere para el bucle 2
 
 ### 5. CONCLUSIONES 
 
+- Mediante los conceptos y ejercicios vistos en este capitulo podemos entender de mejor manera cual es el proceso de desmagnetización, asi como tambien, la teoría de dominio del magnetismo y por ultimo qué son los circuitos magnéticos y por qué se utilizan.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
