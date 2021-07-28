@@ -99,7 +99,7 @@ a. ¿Que voltaje tiene el capacitor inmediatamente despues de que el interruptor
 b. ¿Cual es la constante de tiempo de descarga?
 c. Determine las ecuaciones de descarga para vC e iC.**
 
-<img src="imagenes/Ejer-27_1.jpg">
+<img src="imagenes/Ejer-27_11.jpg">
 
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
