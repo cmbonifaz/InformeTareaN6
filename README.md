@@ -148,6 +148,37 @@ Aplicando la ley de Ampere para el bucle 2
 
 <img src="imagenes/ejer15.jpg">
 
+**16. Deje todo igual que en el problema 15, excepto que la porción de acero fundido se reemplaza con una hoja laminada de acero con un factor de apilamiento de 0.85.**
+
+
+
+**17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ɸ=0.128 mWb. No tome en cuenta el desbordamiento.**
+
+
+
+**18. Se cortan dos espacios, cada uno de 1 mm, en el circuito de la figura 12-48, uno en la porción de acero fundido y el otro en la porción de hierro fundido. Determine la corriente para Ɵ=0.128 mWb. No tome en cuenta el desbordamiento.**
+
+
+
+**19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, la= 0.3mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.**
+
+
+
+**20. Para el circuito de la figura 12-50, Ɵ=141 x uWb y N = 400 vueltas. El miembro inferior es una hoja de acero con un factor de apilamiento de 0.94, mientras que el resto es de acero fundido. Todas las piezas miden 1 cm x 1 cm. La longitud de la trayectoria del acero fundido es de 16cm. Encuéntrela corriente I.**
+
+
+
+**21. Para el circuito de la figura 12-51, Ɵ=30 x uWb y N =2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.**
+
+
+
+**22. Para el circuito de la figura 12-52, Ɵ=25 000 líneas. El factor de apilamiento para la porción de la hoja de acero es de 0.95. Encuentre la corriente I.**
+
+
+
+**23. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo esta en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.**
+
+
 
 24. Para la figura 12-53, si Φg = 80 x μWb, encuentre I.
 
