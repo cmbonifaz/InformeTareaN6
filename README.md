@@ -30,6 +30,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 11 (Carga, descarga del capacitor y circuitos formadores de onda simples)
 
+**29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t0. Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.**
+
+**31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.**
+
 #### Capitulo 12 (Magnetismo y circuitos magnéticos)
 
 **1. Vea la figura 12-41:**
